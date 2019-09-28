@@ -19,7 +19,7 @@ const addNotes = (title, body) => {
     }
 };
 
-const removeNote = function(title){
+const removeNote = (title) => {
     const notes = loadNotes();
 
     const notesToKeep = notes.filter((note) => note.title != title);
