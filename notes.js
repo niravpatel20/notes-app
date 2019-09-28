@@ -15,7 +15,7 @@ const addNotes = (title, body) => {
         console.log(chalk.black.bgGreenBright('Note added successfully!!'));
     }
     else{
-        console.log(chalk.white.bgRed("Error : ") + "Note title taken!\nPlease add note with some another title.");
+        console.log(chalk.white.bgRed("Error : ") + "Note title taken!\nPlease add note with some another title!!");
     }
 };
 
