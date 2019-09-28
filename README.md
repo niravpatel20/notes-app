@@ -17,5 +17,5 @@ node app.js list
 ```
 To read a note:
 ```
-node app.js read -- title="title of the note to be read"
+node app.js read --title="title of the note to be read"
 ```
