@@ -1,5 +1,5 @@
 # notes-app
-To keep the notes with title and body
+Command Line TO-DO Application
 
 Here, notes.json file will keep track of your notes
 
